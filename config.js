@@ -24,7 +24,7 @@ const choice = (array) => {
 return array[Math.floor(Math.random() * array.length)]
 }
 // Sticker WM
-global.packname = (`Rikka Bot`)
+global.packname = (`kurumi Bot`)
 global.getBuffer = getBuffer
 global.author = (`https://caliph.my.id`)
 global.sessionid = '48736705854:2Tq6joffmVDzaS:24'
